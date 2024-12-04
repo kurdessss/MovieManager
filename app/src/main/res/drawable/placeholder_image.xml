@@ -1,0 +1,6 @@
+<!-- Файл: res/drawable/placeholder_image.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#CCCCCC" /> <!-- Цвет фона -->
+    <size android:width="140dp" android:height="180dp" /> <!-- Размер плейсхолдера -->
+    <corners android:radius="8dp" /> <!-- Закругленные углы -->
+</shape>

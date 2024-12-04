@@ -1,0 +1,10 @@
+<!-- Файл: res/drawable/error_image.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FF0000" /> <!-- Цвет фона (например, красный) -->
+    <size android:width="140dp" android:height="180dp" /> <!-- Размер изображения -->
+    <text
+        android:text="Ошибка"
+        android:gravity="center"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp" />
+</shape>
